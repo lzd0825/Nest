@@ -10,7 +10,7 @@ setup(
     name='nest',
     version='0.1.1',
     description='Nest - A flexible tool for building and sharing deep learning modules',
-    url='https://github.com/ZhouYanzhao/Nest',
+    url='https://github.com/lzd0825/Nest',
     author='Zhou, Yanzhao',
     author_email='yzhou.work@outlook.com',
     license='MIT',
